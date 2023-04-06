@@ -1,0 +1,7 @@
+{
+  "posts": [
+    {"ID": 1, "ProductName": "SAMSUNG", "Quantity": 2, "Price": 20000 },
+    {"ID": 2, "ProductName": "IPhone", "Quantity": 3, "Price": 200000 },
+    {"ID": 3, "ProductName": "Vivo", "Quantity": 1, "Price": 15000 }
+  ]
+}
