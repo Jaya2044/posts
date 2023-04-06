@@ -2,7 +2,7 @@
   "posts": [
     {"ID": 1, "ProductName": "Epson Printer", "Quantity": 1, "Price": 9000 },
     {"ID": 2, "ProductName": "Moto G5", "Quantity": 2, "Price": 13000 },
-    {"ID": 3, "ProductName": "Racold Geyser", "Quantity": 3, "Price": 6000 }
+    {"ID": 3, "ProductName": "Racold Geyser", "Quantity": 3, "Price": 6000 },
     {"ID": 4, "ProductName": "Dell Inspiron", "Quantity": 4, "Price": 50000 }
   ]
 }
